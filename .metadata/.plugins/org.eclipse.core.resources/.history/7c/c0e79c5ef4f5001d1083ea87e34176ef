@@ -1,0 +1,5 @@
+package com.projetoSkytef.CrudRestAPI.controllers;
+
+public class UserController {
+
+}
